@@ -1,0 +1,25 @@
+{
+  "name": "insta-grab",
+  "version": "1.0.0",
+  "description": "use instagram dev api to grab info",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UbikK/node_learning.git"
+  },
+  "author": "UbikK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UbikK/node_learning/issues"
+  },
+  "homepage": "https://github.com/UbikK/node_learning#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "instagram-node": "^0.5.8"
+  }
+}

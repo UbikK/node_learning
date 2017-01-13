@@ -1,0 +1,22 @@
+{
+  "name": "awesome-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UbikK/node_learning.git"
+  },
+  "author": "UbikK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UbikK/node_learning/issues"
+  },
+  "homepage": "https://github.com/UbikK/node_learning#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
